@@ -48,7 +48,7 @@ I am a junior developer with experience in both frontend and backend development
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doflare123&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+  <img src="https://github-stats-nine-lovat.vercel.app/api/top-langs/?username=doflare123&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
 </p>
 
 <p align="center">
